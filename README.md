@@ -12,7 +12,7 @@ A Fullstack JavaScript Software Developer, and a member-scholar at AltSchool Afr
     <li>👔 I'm experienced in Nodejs/Express framework/EJS templating engine, and Basic Reactjs, HTML, CSS, Bootstrap - CSS Library.
     <li>😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.</li>
     <li>💼 Job interests: Software Engineer, Backend Engineer, Frontend or UI Engineer (Intern or Junior level).</li>
-    <li>📫 You can view my <a href="">resume<a> and contact me by emailing <a href="mailto:chukwuemekaomeje.rich@gmail.com">mailto: chukwuemekaomeje.rich@gmail.com<a></li>
+    <li>📫 You can view my <a href="">resume<a> and contact me by emailing <a href="mailto:chukwuemekaomeje.rich@gmail.com">chukwuemekaomeje.rich@gmail.com<a></li>
 </ul>
 <hr>
 
