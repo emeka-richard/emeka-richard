@@ -15,6 +15,11 @@ A Fullstack JavaScript Software Developer, and a member-scholar at AltSchool Afr
     <li>📫 You can view my <a href="">resume<a> and contact me by emailing <a href="mailto:chukwuemekaomeje.rich@gmail.com">chukwuemekaomeje.rich@gmail.com<a></li>
 </ul>
 <hr>
+      <p><strong>Lists of my personal and public/Open-Source live projects here: 👇</strong></p>
+      <ul>
+        <li>...</li>
+      </ul>
+<hr>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-githome&show_icons=true&include_all_commits=true&hide_border=true" alt="Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-githome&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
 | ------------- | ------------- |
