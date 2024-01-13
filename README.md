@@ -7,19 +7,19 @@ A Fullstack JavaScript Software Developer, and a member-scholar at AltSchool Afr
 <p><strong>Here is a quick summary about me:</strong><p>
   <ul>
     <li>😊 Pronouns: He/Him</li>
-    <li>💡 Fun fact: I'm currently studying at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering">School of Software Engineering</a> Class of 2023.</li>
-    <li>🌱 I’m currently learning JavaScript, Reactjs, and Python.</li>
-    <li>👔 I'm experienced in Nodejs/Express framework/EJS templating engine, and Basic Reactjs, HTML, CSS, Bootstrap - CSS Library.
-    <li>😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.</li>
-    <li>💼 Job interests: Software Engineer, Backend Engineer, Frontend or UI Engineer (Intern or Junior level).</li>
-    <li>📫 You can view my <a href="">resume<a> and contact me by emailing <a href="mailto:chukwuemekaomeje.rich@gmail.com">chukwuemekaomeje.rich@gmail.com<a></li>
+    <li>💡 Certification: Diploma in Software Engineering @AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering">School of Software Engineering</a> Class of 2023/2024.</li>
+    <li>🌱 Interests: With my foundational knowledge with programming principles and industry best practices, I have fun in learning and building with various technologies.</li>
+    <li>👔 Stack: Deeply experienced in HTML | CSS/BootStrap | JavaScript| Nodejs/Express runtime | EJS templating engine | React UI library | Vue.Js.
+    <li>😊 Dispositions: Open to open-source | Full-time/Part-time entry-level | Internship opportunities.</li>
+    <li>💼 Job Roles: Software Engineer | Backend Engineer | Frontend or UI Engineer | Developer Relatio/Advocacy.</li>
+    <li>📫 Portfolio: My portfolio is still at development level | You can as well reach out to me via email <a href="mailto:chukwuemekaomeje.rich@gmail.com">chukwuemekaomeje.rich@gmail.com<a></li>
 </ul>
 <hr>
-      <p><strong>Lists of my personal and public/Open-Source live projects here: 👇</strong></p>
+      <p><strong>Below is a glimps of my contributions: 👇</strong></p>
       <ul>
         <li>...</li>
       </ul>
 <hr>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-githome&show_icons=true&include_all_commits=true&hide_border=true" alt="Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-githome&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=emeka-richard&show_icons=true&include_all_commits=true&hide_border=true" alt="Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeka-richard&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
 | ------------- | ------------- |
