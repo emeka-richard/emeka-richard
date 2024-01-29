@@ -5,7 +5,8 @@
 Searching for an <em>experienced JavaScript, Reactjs, or Vuejs</em> developer ? I've got you here.
 Searching for an <em>experienced Nodejs, PHP</em> developer ? I'm fully available for you.
 
-#Profile:
+<h3>#Profile: </h3>
+<br/>
 A Fullstack Web Developer, and Diploma in Software Engineering from AltSchool Africa School of Engineering (in view). I am passionate about building web products for real-time business problem-solving, building market-supporting products, and contributing to OSS projects. I am experienced building with quite handful and cutting-edge web technologies (such as, JavaScript, JQuery, React, Vuejs, Nodejs, MongoDB, GraphQL ), and using JEST by a Test Driven Development approach using Agile methodologies. Have consistently worked on projects with React, Vuejs, and Nodejs in a production environment.
 
 <p><strong>Here is a quick summary about me:</strong><p>
